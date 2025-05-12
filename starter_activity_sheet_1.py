@@ -1,6 +1,6 @@
 # starter program lesson 1
 
-name = "Billy"
+name = "Sum Gai"
 print("We want to know if you like progamming!")
 print()
 print("Do you like programming " + name + "?")
